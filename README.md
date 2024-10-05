@@ -6,9 +6,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SHAHID&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SHAHID&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SHAHID&theme=swift&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SHAHID&limit=5&theme=dark&combine_all_yearly_contributions=true)

@@ -1,4 +1,4 @@
-<img alt="html5" src="./assets/logo.png" />
+<img alt="html5" src="../assets/logo.png" />
 
 
 

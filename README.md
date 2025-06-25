@@ -1,4 +1,4 @@
-<img alt="html5" src="./assest/logo.png" height="300" />
+<img alt="html5" src="./assest/logo.png" />
 
 
 

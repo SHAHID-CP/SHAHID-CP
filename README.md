@@ -1,4 +1,7 @@
-<img alt="html5" src="./assest/logo.png" />
+
+# 👋 Hi, I'm SHAHID
+
+I'm a passionate **MERN Stack Web Developer** skilled in building dynamic, full-stack web applications using modern JavaScript technologies.
 
 
 

@@ -1,4 +1,5 @@
 <img src="https://ibb.co/j9TS8k6v" alt="Shahid photo" >
+<img src="https://www.w3schools.com/images/lamp.jpg" alt="Lamp" width="32" height="32">
 
 
 # 💻 Tech Skils:

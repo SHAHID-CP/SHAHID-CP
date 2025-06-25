@@ -1,4 +1,5 @@
-![](https://ibb.co/j9TS8k6v).
+<img src="https://ibb.co/j9TS8k6v" alt="Shahid photo" >
+
 
 # 💻 Tech Skils:
 

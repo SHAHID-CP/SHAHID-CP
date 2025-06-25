@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm SHAHID
 
-I'm a passionate **FULL Stack Web Developer** skilled in building dynamic, full-stack web applications using modern JavaScript technologies.<br/>
+I'm a passionate **FULL Stack Web Developer** skilled in building dynamic, full-stack web applications using modern JavaScript technologies.<br/><br/>
 ⚙️ **What I Do:**  
 - Build scalable & responsive web apps 🌐  
 - Develop RESTful APIs 🔗  

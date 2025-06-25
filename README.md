@@ -1,7 +1,14 @@
 
 # 👋 Hi, I'm SHAHID
 
-I'm a passionate **MERN Stack Web Developer** skilled in building dynamic, full-stack web applications using modern JavaScript technologies.
+I'm a passionate **FULL Stack Web Developer** skilled in building dynamic, full-stack web applications using modern JavaScript technologies.
+⚙️ **What I Do:**  
+- Build scalable & responsive web apps 🌐  
+- Develop RESTful APIs 🔗  
+- Create interactive user interfaces 🎨  
+- Implement secure authentication 🔐
+
+🌟 Always eager to learn and explore new technologies! 🚀
 
 
 

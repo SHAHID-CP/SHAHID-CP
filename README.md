@@ -2,14 +2,30 @@
 
 # 👋 Hi, I'm SHAHID
 
-I'm a passionate **FULL Stack Web Developer** skilled in building dynamic, full-stack web applications using modern JavaScript technologies.<br/><br/>
-⚙️ **What I Do:**  
-- Build scalable & responsive web apps 🌐  
-- Develop RESTful APIs 🔗  
-- Create interactive user interfaces 🎨  
-- Implement secure authentication 🔐
+💻 **Full Stack Web Developer | MERN Stack Enthusiast | Competitive Programmer**  
 
-🌟 Always eager to learn and explore new technologies! 🚀
+I specialize in building **high-performance, scalable web applications** using modern JavaScript technologies. My focus is on delivering clean, maintainable code and user-centric digital solutions.  
+
+---
+
+### ⚙️ What I Do
+- ✅ Develop **scalable & responsive** web applications 🌐  
+- ✅ Build **RESTful APIs & backend systems** optimized for performance 🔗  
+- ✅ Design **interactive, user-friendly interfaces** 🎨  
+- ✅ Implement **secure authentication & role-based access control** 🔐  
+- ✅ Work with **real-world integrations** (Stripe, Firebase, Cloud Storage)  
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** React, Next.js, Tailwind CSS, TypeScript  
+**Backend:** Node.js, Express.js, MongoDB, Firebase  
+**Other:** Git, Docker, REST APIs, JWT, CI/CD  
+
+---
+
+### 🌟 My Approach
+> “I believe in writing clean, reusable, and scalable code that solves real problems. I constantly learn, explore, and contribute to open-source to improve my craft.”  
 
 
 

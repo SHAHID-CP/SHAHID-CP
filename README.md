@@ -1,5 +1,29 @@
 ![Banner](https://i.ibb.co/dsnrcXHv/bann.jpg)
 
+<!-- Frontend -->
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![javascript](https://skillicons.dev/icons?i=javascript)
+![typescript](https://skillicons.dev/icons?i=typescript)
+![react](https://skillicons.dev/icons?i=react)
+![redux](https://skillicons.dev/icons?i=redux)
+![tailwind](https://skillicons.dev/icons?i=tailwind)
+![nextjs](https://skillicons.dev/icons?i=nextjs)
+
+<!-- Backend -->
+![nodejs](https://skillicons.dev/icons?i=nodejs)
+![express](https://skillicons.dev/icons?i=express)
+![jwt](https://skillicons.dev/icons?i=jwt)
+
+<!-- Database -->
+![mongodb](https://skillicons.dev/icons?i=mongodb)
+![mysql](https://skillicons.dev/icons?i=mysql)
+
+<!-- Tools -->
+![firebase](https://skillicons.dev/icons?i=firebase)
+![stripe](https://skillicons.dev/icons?i=stripe)
+
+
 # 👋 Hi, I'm SHAHID  
 
 💻 **Full Stack Web Developer | MERN Specialist | Problem Solver**  

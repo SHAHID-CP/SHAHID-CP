@@ -18,6 +18,34 @@
 ![stripe](https://skillicons.dev/icons?i=stripe)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 👋 Hi, I'm SHAHID  
 
 💻 **Full Stack Web Developer | MERN Specialist | Problem Solver**  

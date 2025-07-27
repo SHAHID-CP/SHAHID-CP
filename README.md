@@ -9,17 +9,11 @@
 ![redux](https://skillicons.dev/icons?i=redux)
 ![tailwind](https://skillicons.dev/icons?i=tailwind)
 ![nextjs](https://skillicons.dev/icons?i=nextjs)
-
-<!-- Backend -->
 ![nodejs](https://skillicons.dev/icons?i=nodejs)
 ![express](https://skillicons.dev/icons?i=express)
 ![jwt](https://skillicons.dev/icons?i=jwt)
-
-<!-- Database -->
 ![mongodb](https://skillicons.dev/icons?i=mongodb)
 ![mysql](https://skillicons.dev/icons?i=mysql)
-
-<!-- Tools -->
 ![firebase](https://skillicons.dev/icons?i=firebase)
 ![stripe](https://skillicons.dev/icons?i=stripe)
 

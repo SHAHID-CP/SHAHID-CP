@@ -15,7 +15,7 @@
 ![mongodb](https://skillicons.dev/icons?i=mongodb)
 ![mysql](https://skillicons.dev/icons?i=mysql)
 ![firebase](https://skillicons.dev/icons?i=firebase)
-![stripe](https://skillicons.dev/icons?i=stripe)
+![stripe](https://skillicons.dev/icons?i=stripe)*****************
 
 
 

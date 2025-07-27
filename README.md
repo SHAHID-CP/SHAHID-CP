@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/dsnrcXHv/bann.jpg)
+
 
 <!-- Frontend -->
 ![HTML](https://skillicons.dev/icons?i=html)

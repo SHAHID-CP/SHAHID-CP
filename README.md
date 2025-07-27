@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/dsnrcXHv/bann.jpg)
+![Banner](https://i.ibb.co/Xx8TmmN5/ban.png)
 
 # 👋 Hi, I'm SHAHID  
 

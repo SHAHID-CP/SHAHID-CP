@@ -55,14 +55,14 @@ Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SHAHID&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<img src="https://github-readme-activity-graph.vercel.app/api?username=SHAHID&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAHID&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <div align="center" >
 <a  href="https://github.com/SP-XD">
 
-<img src="https://raw.githubusercontent.com/SHAHID-CP/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SHAHID-CP/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SHAHID-CP/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SHAHID/SHAHID-CP/master/SHAHID-CP-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SHAHID/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SHAHID/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a>
 

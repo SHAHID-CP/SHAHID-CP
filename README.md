@@ -55,6 +55,7 @@ Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SHAHID&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAHID&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <div align="center" >
 <a  href="https://github.com/SP-XD">

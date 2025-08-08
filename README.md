@@ -31,7 +31,9 @@ I build **end-to-end web solutions** that combine clean architecture, secure bac
 ✔ Passionate about **learning new frameworks & contributing to open-source**
 
 ### 🌟 My Approach
-> “I believe in writing clean, reusable, and scalable code that solves real problems. I constantly learn, explore, and contribute to open-source to improve my craft.”  
+> “I believe in writing clean, reusable, and scalable code that solves real problems. I constantly learn, explore, and contribute to open-source to improve my craft.”
+> # Contact Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shaahid.045@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/AVP6UHTG4NW6C1) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaahid-cp)
 
 
 # 💻 Tech Skils:

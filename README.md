@@ -18,7 +18,7 @@ I build **end-to-end web solutions** that combine clean architecture, secure bac
 ---
 
 ### 🛠️ Tech Stack & Tools  
-**Frontend:** React, Next.js, Tailwind CSS, TypeScript  
+**Frontend:** React, Next.js, TypeScript , Tailwind CSS, Redux, Zustand   
 **Backend:** Node.js, Express.js, MongoDB, Firebase  
 **Other:** Git, Docker, JWT, Stripe, CI/CD, REST APIs  
 

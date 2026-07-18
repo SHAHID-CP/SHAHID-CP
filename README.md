@@ -44,14 +44,7 @@ I build **end-to-end web solutions** that combine clean architecture, secure bac
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shaahid.045@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/AVP6UHTG4NW6C1) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaahid-cp)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SHAHID&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHAHID-CP&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHID-CP&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SHAHID-CP&theme=tokyonight)
 
 
 <hr></hr>

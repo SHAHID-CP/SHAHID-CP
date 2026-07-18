@@ -54,7 +54,6 @@ I build **end-to-end web solutions** that combine clean architecture, secure bac
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
@@ -116,9 +115,9 @@ I build **end-to-end web solutions** that combine clean architecture, secure bac
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SHAHID-CP&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SHAHID-CP&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=SHAHID-CP&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true) </br>
 ![](https://streak-stats.demolab.com/?user=SHAHID-CP&theme=ambient_gradient&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SHAHID-CP&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 

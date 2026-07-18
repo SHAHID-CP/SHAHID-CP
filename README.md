@@ -43,8 +43,6 @@ I build **end-to-end web solutions** that combine clean architecture, secure bac
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
-
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -149,8 +147,8 @@ I build **end-to-end web solutions** that combine clean architecture, secure bac
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=SHAHID-CP&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true)
-![](https://streak-stats.demolab.com/?user=SHAHID-CP&theme=ambient_gradient&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SHAHID-CP&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://streak-stats.demolab.com/?user=SHAHID-CP&theme=ambient_gradient&hide_border=false)
 
 
 

@@ -115,8 +115,7 @@ I build **end-to-end web solutions** that combine clean architecture, secure bac
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=SHAHID-CP&theme=ambient_gradient&hide_border=false) </br>
-![](https://github-readme-stats.shion.dev/api?username=SHAHID-CP&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true) 
+![](https://streak-stats.demolab.com/?user=SHAHID-CP&theme=ambient_gradient&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SHAHID-CP&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 

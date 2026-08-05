@@ -19,7 +19,7 @@ I build **end-to-end web solutions** that combine clean architecture, secure bac
 
 ### 🛠️ Tech Stack & Tools  
 **Frontend:** React, Next.js, TypeScript , Tailwind CSS, Redux, Zustand   
-**Backend:** Node.js, Express.js, PostgreSql, MongoDB, Mongose, Prisma ORM, Firebase, Zod 
+**Backend:** Node.js, Express.js, PostgreSql, MongoDB, Mongose, Prisma ORM, Firebase, Zod ,
 **Other:** Git, Docker, JWT, Stripe, CI/CD, REST APIs  
 
 ---
